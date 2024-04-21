@@ -1,5 +1,3 @@
-/*SQL Review Exercise Template*/
-
 Use BA710;
 
 /*1. Which shippers do we have?
